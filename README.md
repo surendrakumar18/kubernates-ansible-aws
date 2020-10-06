@@ -1,7 +1,7 @@
 # kubernates-ansible-aws
 This repo installs 3 node Kubernetes cluster on AWS with 1 master and 2 worker 
 
-# Steps to run this repo
+# Steps to run this repo as first step
 
 # 1.Install the pre-requistes 
 ./packages.sh
